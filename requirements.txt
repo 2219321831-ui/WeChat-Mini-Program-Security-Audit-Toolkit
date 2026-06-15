@@ -1,0 +1,5 @@
+# WeChat Mini-Program Security Audit Toolkit — Dependencies
+# Most scripts use only the Python standard library (no install needed).
+# Only wxapkg_extractor.py requires pycryptodome for AES decryption.
+
+pycryptodome>=3.18
